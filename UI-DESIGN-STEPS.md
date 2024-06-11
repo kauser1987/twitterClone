@@ -1,4 +1,4 @@
-<!-- # Install Tailwind && Daisy UI (check out the docs)
+# Install Tailwind && Daisy UI (check out the docs)
 
 # Update Tailwind config file for daisy UI
 
@@ -1340,4 +1340,4 @@ const ProfileHeaderSkeleton = () => {
 	);
 };
 export default ProfileHeaderSkeleton;
-``` -->
+```
